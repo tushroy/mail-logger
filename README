@@ -1,5 +1,0 @@
-mail-logger
-===============
-
-Getting a E-mail notification when someone visit your site. Also logs related information like browser,ips and time to database.
-required: php, mysql, mail
